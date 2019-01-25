@@ -1,0 +1,10 @@
+{
+    "php.validate.executablePath":"C:/xampp/php/php.exe",
+    "php.validate.run":"onSave",
+    "php.suggest.basic": true,
+    // Enable/disable built-in PHP validation.
+    "php.validate.enable": true,
+    "editor.fontSize": 10,
+    "editor.formatOnPaste": true,
+
+}

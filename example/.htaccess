@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+    RewriteEngine On
+    ##Blacklist
+    ##RewriteRule ^config/.* index.php [L,NC]
+    ##Whitelist
+    ##RewriteCond %{REQUEST_URI} !\.js$
+    ##RewriteCond %{REQUEST_URI} !\.jpg$
+    ##RewriteCond %{REQUEST_URI} !\.png$
+    ##RewriteCond %{REQUEST_URI} !\.ico$
+    ##RewriteCond %{REQUEST_URI} !\.jpeg$
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    ##RewriteRule . /index.php [L]
+    RewriteRule ^tutorials/(.*)/(.*)$ /tutorials.php?id=$1&page=$2 [L]
+    RewriteRule ^page/(.*)$ /page.php [L]
+
+</IfModule>
