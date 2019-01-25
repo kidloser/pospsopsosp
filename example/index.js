@@ -7,7 +7,7 @@ $(document).ready(function() {
         };
         $.ajax({
             type: "POST",
-            url: "./api/index.php",
+            url: "./api/",
             data : {'dataPost': JSON.stringify(dataPost)},
             success: function (response)
             {
