@@ -1,0 +1,3149 @@
+[
+    {
+        "text": "",
+        "attributes": {
+            "href": "#",
+            "class": "left-sidebar-toggle p0 ai-center jc-center js-left-sidebar-toggle"
+        }
+    },
+    {
+        "text": "Stack Overflow",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com",
+            "class": "-logo js-gps-track",
+            "data-gps-track": "top_nav.click({is_current:false, location:2, destination:8})"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "#",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/users\/?tab=inbox",
+            "class": "-link js-inbox-button",
+            "title": "Recent inbox messages"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/users\/?tab=reputation",
+            "class": "-link js-achievements-button",
+            "title": "Recent achievements: reputation, badges, and privileges earned",
+            "data-unread-class": "_highlighted-positive"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "#",
+            "class": "-link js-help-button",
+            "title": "Help Center and other resources"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com",
+            "class": "-link js-site-switcher-button js-gps-track",
+            "data-gps-track": "site_switcher.show",
+            "title": "A list of all 174 Stack Exchange sites"
+        }
+    },
+    {
+        "text": "Log In",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/users\/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f2313107%2fhow-do-i-make-a-simple-crawler-in-php",
+            "class": "login-link s-btn btn-topbar-clear py8",
+            "rel": "nofollow"
+        }
+    },
+    {
+        "text": "Sign Up",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/users\/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent",
+            "class": "login-link s-btn s-btn__primary py8 btn-topbar-primary",
+            "rel": "nofollow",
+            "data-ga": "[\"sign up\",\"Sign Up Navigation\",\"Header\",null,null]"
+        }
+    },
+    {
+        "text": "current community",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com"
+        }
+    },
+    {
+        "text": "Stack Overflow",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com",
+            "class": "current-site-link site-link js-gps-track grid gs8 gsx",
+            "data-id": "1",
+            "data-gps-track": "site_switcher.click({ item_type:3 })"
+        }
+    },
+    {
+        "text": "help",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/help",
+            "class": "js-gps-track",
+            "data-gps-track": "site_switcher.click({ item_type:14 })"
+        }
+    },
+    {
+        "text": "chat",
+        "attributes": {
+            "href": "https:\/\/chat.stackoverflow.com",
+            "class": "js-gps-track",
+            "data-gps-track": "site_switcher.click({ item_type:6 })"
+        }
+    },
+    {
+        "text": "Meta Stack Overflow",
+        "attributes": {
+            "href": "https:\/\/meta.stackoverflow.com",
+            "class": "site-link js-gps-track grid gs8 gsx",
+            "data-id": "552",
+            "data-gps-track": "site.switch({ target_site:552, item_type:3 }),site_switcher.click({ item_type:4 })"
+        }
+    },
+    {
+        "text": "Sign up",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/users\/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent",
+            "class": "login-link js-gps-track",
+            "data-gps-track": "site_switcher.click({ item_type:10 })"
+        }
+    },
+    {
+        "text": "log in",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/users\/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f2313107%2fhow-do-i-make-a-simple-crawler-in-php",
+            "class": "login-link js-gps-track",
+            "data-gps-track": "site_switcher.click({ item_type:11 })"
+        }
+    },
+    {
+        "text": "more stack exchange communities",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/sites"
+        }
+    },
+    {
+        "text": "company blog",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.blog",
+            "class": "fr"
+        }
+    },
+    {
+        "text": "Tour Start here for a quick overview of the site",
+        "attributes": {
+            "href": "\/tour",
+            "class": "js-gps-track",
+            "data-gps-track": "help_popup.click({ item_type:1 })"
+        }
+    },
+    {
+        "text": "Help Center Detailed answers to any questions you might have",
+        "attributes": {
+            "href": "\/help",
+            "class": "js-gps-track",
+            "data-gps-track": "help_popup.click({ item_type:4 })"
+        }
+    },
+    {
+        "text": "Meta Discuss the workings and policies of this site",
+        "attributes": {
+            "href": "https:\/\/meta.stackoverflow.com",
+            "class": "js-gps-track",
+            "data-gps-track": "help_popup.click({ item_type:2 })"
+        }
+    },
+    {
+        "text": "About Us Learn more about Stack Overflow the company",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/company\/about",
+            "class": "js-gps-track",
+            "data-gps-track": "help_popup.click({ item_type:6 })"
+        }
+    },
+    {
+        "text": "Business Learn more about hiring developers or posting ads with us",
+        "attributes": {
+            "href": "https:\/\/www.stackoverflowbusiness.com\/?ref=topbar_help",
+            "class": "js-gps-track",
+            "data-gps-track": "help_popup.click({ item_type:7 })"
+        }
+    },
+    {
+        "text": "Cookie Policy",
+        "attributes": {
+            "class": "s-link s-link__inherit td-underline fc-white",
+            "target": "_blank",
+            "href": "https:\/\/stackoverflow.com\/legal\/cookie-policy"
+        }
+    },
+    {
+        "text": "Privacy Policy",
+        "attributes": {
+            "class": "s-link s-link__inherit td-underline fc-white",
+            "target": "_blank",
+            "href": "https:\/\/stackoverflow.com\/legal\/privacy-policy"
+        }
+    },
+    {
+        "text": "Terms of Service",
+        "attributes": {
+            "class": "s-link s-link__inherit td-underline fc-white",
+            "target": "_blank",
+            "href": "https:\/\/stackoverflow.com\/legal\/terms-of-service\/public"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "grid--cell fc-white js-notice-close",
+            "aria-label": "notice-dismiss"
+        }
+    },
+    {
+        "text": "Take the 2019 Developer Survey now",
+        "attributes": {
+            "class": "s-link js-link js-gps-track fw-bold fc-blue-400",
+            "href": "\/dev-survey\/start?utm_source=so-owned&utm_medium=announcement-banner&utm_campaign=dev-survey-2019",
+            "data-ga": "[\"dev-survey-2019\",\"Announcement Banner\",\"\/dev-survey\/start?utm_source=so-owned&utm_medium=announcement-banner&utm_campaign=dev-survey-2019\",null,{\"dimension4\":\"dev-survey-2019\"}]",
+            "data-gps-track": "announcement_banner.click({campaign: '2019-01-23.dev-survey-2019', location: 2, action: 2})"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "grid-cell fc-white js-dismiss js-gps-track",
+            "href": "#",
+            "title": "dismiss",
+            "data-gps-track": "announcement_banner.click({campaign: '2019-01-23.dev-survey-2019', location: 2, action: 1})"
+        }
+    },
+    {
+        "text": "Home",
+        "attributes": {
+            "href": "\/",
+            "class": "pl8 js-gps-track nav-links--link",
+            "data-gps-track": "top_nav.click({is_current:false, location:2, destination:8})"
+        }
+    },
+    {
+        "text": "Stack Overflow",
+        "attributes": {
+            "id": "nav-questions",
+            "href": "\/questions",
+            "class": "pl8 js-gps-track nav-links--link -link__with-icon",
+            "data-gps-track": "top_nav.click({is_current:true, location:2, destination:1})"
+        }
+    },
+    {
+        "text": "Tags",
+        "attributes": {
+            "id": "nav-tags",
+            "href": "\/tags",
+            "class": "js-gps-track nav-links--link",
+            "data-gps-track": "top_nav.click({is_current:false, location:2, destination:2})"
+        }
+    },
+    {
+        "text": "Users",
+        "attributes": {
+            "id": "nav-users",
+            "href": "\/users",
+            "class": "js-gps-track nav-links--link",
+            "data-gps-track": "top_nav.click({is_current:false, location:2, destination:3})"
+        }
+    },
+    {
+        "text": "Jobs",
+        "attributes": {
+            "id": "nav-jobs",
+            "href": "\/jobs?med=site-ui&ref=jobs-tab",
+            "class": "js-gps-track nav-links--link",
+            "data-gps-track": "top_nav.click({is_current:false, location:2, destination:6})"
+        }
+    },
+    {
+        "text": "Learn More",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/teams",
+            "class": "js-gps-track s-btn s-btn__outlined ta-center grid--cell mt12",
+            "data-gps-track": "teams.create.left-sidenav.click({ CampaignType: None})",
+            "data-ga": "[\"teams traffic\",\"left nav cta\",\"stackoverflow.com\/teams\",null,{\"dimension4\":\"teams\"}]"
+        }
+    },
+    {
+        "text": "How do I make a simple crawler in PHP?",
+        "attributes": {
+            "href": "\/questions\/2313107\/how-do-i-make-a-simple-crawler-in-php",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "Ask Question",
+        "attributes": {
+            "href": "\/questions\/ask",
+            "class": "d-inline-flex ai-center ws-nowrap s-btn s-btn__primary"
+        }
+    },
+    {
+        "text": "php",
+        "attributes": {
+            "href": "\/questions\/tagged\/php",
+            "class": "post-tag",
+            "title": "show questions tagged 'php'",
+            "rel": "tag"
+        }
+    },
+    {
+        "text": "web-crawler",
+        "attributes": {
+            "href": "\/questions\/tagged\/web-crawler",
+            "class": "post-tag",
+            "title": "show questions tagged 'web-crawler'",
+            "rel": "tag"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/q\/2313107",
+            "title": "short permalink to this question",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313107"
+        }
+    },
+    {
+        "text": "improve this question",
+        "attributes": {
+            "href": "\/posts\/2313107\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited Apr 14 '14 at 21:08",
+        "attributes": {
+            "href": "\/posts\/2313107\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/881229\/kara"
+        }
+    },
+    {
+        "text": "Kara",
+        "attributes": {
+            "href": "\/users\/881229\/kara"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/140970\/kshitij-saxena-kj"
+        }
+    },
+    {
+        "text": "Kshitij Saxena -KJ-",
+        "attributes": {
+            "href": "\/users\/140970\/kshitij-saxena-kj"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid answering questions in comments."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "tab-top"
+        }
+    },
+    {
+        "text": "active",
+        "attributes": {
+            "href": "\/questions\/2313107\/how-do-i-make-a-simple-crawler-in-php?answertab=active#tab-top",
+            "data-nav-xhref": "",
+            "title": "Answers with the latest activity first",
+            "data-value": "active",
+            "data-shortcut": "A"
+        }
+    },
+    {
+        "text": "oldest",
+        "attributes": {
+            "href": "\/questions\/2313107\/how-do-i-make-a-simple-crawler-in-php?answertab=oldest#tab-top",
+            "data-nav-xhref": "",
+            "title": "Answers in the order they were provided",
+            "data-value": "oldest",
+            "data-shortcut": "O"
+        }
+    },
+    {
+        "text": "votes",
+        "attributes": {
+            "class": "youarehere is-selected",
+            "href": "\/questions\/2313107\/how-do-i-make-a-simple-crawler-in-php?answertab=votes#tab-top",
+            "data-nav-xhref": "",
+            "title": "Answers with the highest score first",
+            "data-value": "votes",
+            "data-shortcut": "V"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "2313270"
+        }
+    },
+    {
+        "text": "parse HTML with regexes",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/questions\/1732348\/regex-match-open-tags-except-xhtml-self-contained-tags"
+        }
+    },
+    {
+        "text": "http",
+        "attributes": {
+            "href": "http:\/\/us3.php.net\/manual\/en\/book.http.php",
+            "rel": "noreferrer"
+        }
+    },
+    {
+        "text": "http_build_url",
+        "attributes": {
+            "href": "http:\/\/us3.php.net\/manual\/en\/function.http-build-url.php",
+            "rel": "noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/2313270",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313270"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/2313270\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited Dec 13 '17 at 17:19",
+        "attributes": {
+            "href": "\/posts\/2313270\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/9094918\/david-warthen"
+        }
+    },
+    {
+        "text": "David Warthen",
+        "attributes": {
+            "href": "\/users\/9094918\/david-warthen"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave"
+        }
+    },
+    {
+        "text": "hobodave",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave"
+        }
+    },
+    {
+        "text": "Ben Shelock",
+        "attributes": {
+            "href": "\/users\/111669\/ben-shelock",
+            "title": "7,878 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "hobodave",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave",
+            "title": "24,225 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "Zoka",
+        "attributes": {
+            "href": "\/users\/3617631\/zoka",
+            "title": "112 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "24041887"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/24041887",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-24041887"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/24041887\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited Jun 11 '14 at 18:38",
+        "attributes": {
+            "href": "\/posts\/24041887\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/716435\/wonderland"
+        }
+    },
+    {
+        "text": "WonderLand",
+        "attributes": {
+            "href": "\/users\/716435\/wonderland"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "2313133"
+        }
+    },
+    {
+        "text": "http:\/\/sourceforge.net\/projects\/php-crawler\/",
+        "attributes": {
+            "href": "http:\/\/sourceforge.net\/projects\/php-crawler\/",
+            "rel": "noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/2313133",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313133"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/2313133\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/177526\/geektantra"
+        }
+    },
+    {
+        "text": "GeekTantra",
+        "attributes": {
+            "href": "\/users\/177526\/geektantra"
+        }
+    },
+    {
+        "text": "mickmackusa",
+        "attributes": {
+            "href": "\/users\/2943403\/mickmackusa",
+            "title": "22,758 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "PiTheNumber",
+        "attributes": {
+            "href": "\/users\/956397\/pithenumber",
+            "title": "14,940 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "2313146"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/2313146",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313146"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/2313146\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/198707\/tatu-ulmanen"
+        }
+    },
+    {
+        "text": "Tatu Ulmanen",
+        "attributes": {
+            "href": "\/users\/198707\/tatu-ulmanen"
+        }
+    },
+    {
+        "text": "hobodave",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave",
+            "title": "24,225 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "Tatu Ulmanen",
+        "attributes": {
+            "href": "\/users\/198707\/tatu-ulmanen",
+            "title": "97,146 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "erdomester",
+        "attributes": {
+            "href": "\/users\/571648\/erdomester",
+            "title": "6,810 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "12193232"
+        }
+    },
+    {
+        "text": "hobodave's",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/users\/105662\/hobodave"
+        }
+    },
+    {
+        "text": "crawler script tutorial",
+        "attributes": {
+            "href": "http:\/\/www.webgalli.com\/blog\/?p=1253",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/12193232",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-12193232"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/12193232\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited May 23 '17 at 12:10",
+        "attributes": {
+            "href": "\/posts\/12193232\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/-1\/community"
+        }
+    },
+    {
+        "text": "Community",
+        "attributes": {
+            "href": "\/users\/-1\/community"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/1418977\/team-webgalli"
+        }
+    },
+    {
+        "text": "Team Webgalli",
+        "attributes": {
+            "href": "\/users\/1418977\/team-webgalli"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "2313172"
+        }
+    },
+    {
+        "text": "wget",
+        "attributes": {
+            "href": "http:\/\/www.rootr.net\/man\/info\/wget",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "Best Methods to parse HTML",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/questions\/3577641\/best-methods-to-parse-html\/3577662#3577662"
+        }
+    },
+    {
+        "text": "examples",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/questions\/3820666\/grabbing-the-href-attribute-of-an-a-element\/3820783#3820783"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/2313172",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313172"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/2313172\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited May 23 '17 at 11:33",
+        "attributes": {
+            "href": "\/posts\/2313172\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/-1\/community"
+        }
+    },
+    {
+        "text": "Community",
+        "attributes": {
+            "href": "\/users\/-1\/community"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/208809\/gordon"
+        }
+    },
+    {
+        "text": "Gordon",
+        "attributes": {
+            "href": "\/users\/208809\/gordon"
+        }
+    },
+    {
+        "text": "Kshitij Saxena -KJ-",
+        "attributes": {
+            "href": "\/users\/140970\/kshitij-saxena-kj",
+            "title": "10,292 reputation",
+            "class": "comment-user owner"
+        }
+    },
+    {
+        "text": "Gordon",
+        "attributes": {
+            "href": "\/users\/208809\/gordon",
+            "title": "263,277 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "hobodave",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave",
+            "title": "24,225 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "Gordon",
+        "attributes": {
+            "href": "\/users\/208809\/gordon",
+            "title": "263,277 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "Gordon",
+        "attributes": {
+            "href": "\/users\/208809\/gordon",
+            "title": "263,277 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-add-link comments-link dno",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "show 8 more comments",
+        "attributes": {
+            "class": "js-show-link comments-link",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "5877026"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/5877026",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-5877026"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/5877026\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/511418\/george"
+        }
+    },
+    {
+        "text": "George",
+        "attributes": {
+            "href": "\/users\/511418\/george"
+        }
+    },
+    {
+        "text": "hobodave",
+        "attributes": {
+            "href": "\/users\/105662\/hobodave",
+            "title": "24,225 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "2313212"
+        }
+    },
+    {
+        "text": "http:\/\/www.phpro.org\/examples\/Get-Links-With-DOM.html",
+        "attributes": {
+            "href": "http:\/\/www.phpro.org\/examples\/Get-Links-With-DOM.html",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "http:\/\/www.tizag.com\/phpT\/filewrite.php",
+        "attributes": {
+            "href": "http:\/\/www.tizag.com\/phpT\/filewrite.php",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/2313212",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-2313212"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/2313212\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/57068\/jens-roland"
+        }
+    },
+    {
+        "text": "Jens Roland",
+        "attributes": {
+            "href": "\/users\/57068\/jens-roland"
+        }
+    },
+    {
+        "text": "Gordon",
+        "attributes": {
+            "href": "\/users\/208809\/gordon",
+            "title": "263,277 reputation",
+            "class": "comment-user"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "22194850"
+        }
+    },
+    {
+        "text": "http:\/\/www.tiendeo.nl\/Catalogi\/amsterdam\/16558&subori=web_sliders&buscar=Boni&sw=1366",
+        "attributes": {
+            "href": "http:\/\/www.tiendeo.nl\/Catalogi\/amsterdam\/16558&subori=web_sliders&buscar=Boni&sw=1366",
+            "rel": "nofollow"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/22194850",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-22194850"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/22194850\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/1392021\/user1392021"
+        }
+    },
+    {
+        "text": "user1392021",
+        "attributes": {
+            "href": "\/users\/1392021\/user1392021"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "32604778"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/32604778",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-32604778"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/32604778\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited Sep 16 '15 at 10:36",
+        "attributes": {
+            "href": "\/posts\/32604778\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/2200659\/anders"
+        }
+    },
+    {
+        "text": "Anders",
+        "attributes": {
+            "href": "\/users\/2200659\/anders"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/1091231\/pasqal"
+        }
+    },
+    {
+        "text": "pasqal",
+        "attributes": {
+            "href": "\/users\/1091231\/pasqal"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "35146732"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/35146732",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-35146732"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/35146732\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/5871172\/niraj-patel"
+        }
+    },
+    {
+        "text": "Niraj patel",
+        "attributes": {
+            "href": "\/users\/5871172\/niraj-patel"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "48954382"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/48954382",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-48954382"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/48954382\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/4719406\/dov-jacobson"
+        }
+    },
+    {
+        "text": "Dov Jacobson",
+        "attributes": {
+            "href": "\/users\/4719406\/dov-jacobson"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "48223234"
+        }
+    },
+    {
+        "text": "PHP - Is the there a safe way to perform deep recursion?",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/questions\/11278010\/php-is-the-there-a-safe-way-to-perform-deep-recursion"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/48223234",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-48223234"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/48223234\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "edited Jan 12 '18 at 11:46",
+        "attributes": {
+            "href": "\/posts\/48223234\/revisions",
+            "title": "show all edits to this post"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/788971\/ian"
+        }
+    },
+    {
+        "text": "Ian",
+        "attributes": {
+            "href": "\/users\/788971\/ian"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "48620540"
+        }
+    },
+    {
+        "text": "http:\/\/www.the-art-of-web.com\/php\/parse-robots\/",
+        "attributes": {
+            "href": "http:\/\/www.the-art-of-web.com\/php\/parse-robots\/",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/48620540",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-48620540"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/48620540\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/3897214\/antony"
+        }
+    },
+    {
+        "text": "Antony",
+        "attributes": {
+            "href": "\/users\/3897214\/antony"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "48621099"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/48621099",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-48621099"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/48621099\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/1895094\/jake"
+        }
+    },
+    {
+        "text": "Jake",
+        "attributes": {
+            "href": "\/users\/1895094\/jake"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "54029578"
+        }
+    },
+    {
+        "text": "https:\/\/html.com\/tags\/area\/",
+        "attributes": {
+            "href": "https:\/\/html.com\/tags\/area\/",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "Crawlzone",
+        "attributes": {
+            "href": "https:\/\/github.com\/crawlzone\/crawlzone",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "https:\/\/www.codementor.io\/zstate\/this-is-how-i-crawl-n98s6myxm",
+        "attributes": {
+            "href": "https:\/\/www.codementor.io\/zstate\/this-is-how-i-crawl-n98s6myxm",
+            "rel": "nofollow noreferrer"
+        }
+    },
+    {
+        "text": "share",
+        "attributes": {
+            "href": "\/a\/54029578",
+            "title": "short permalink to this answer",
+            "class": "short-link",
+            "itemprop": "url",
+            "id": "link-post-54029578"
+        }
+    },
+    {
+        "text": "improve this answer",
+        "attributes": {
+            "href": "\/posts\/54029578\/edit",
+            "class": "suggest-edit-post",
+            "title": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "\/users\/2225558\/zstate"
+        }
+    },
+    {
+        "text": "zstate",
+        "attributes": {
+            "href": "\/users\/2225558\/zstate"
+        }
+    },
+    {
+        "text": "add a comment",
+        "attributes": {
+            "class": "js-add-link comments-link disabled-link",
+            "title": "Use comments to ask for more information or suggest improvements. Avoid comments like \u00e2\u0080\u009c+1\u00e2\u0080\u009d or \u00e2\u0080\u009cthanks\u00e2\u0080\u009d."
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "class": "js-show-link comments-link dno",
+            "title": "expand to show all comments on this post",
+            "href": "#",
+            "onclick": ""
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "name": "new-answer"
+        }
+    },
+    {
+        "text": "tips on writing great answers",
+        "attributes": {
+            "href": "\/help\/how-to-answer"
+        }
+    },
+    {
+        "text": "log in",
+        "attributes": {
+            "id": "login-link",
+            "href": "\/users\/login?ssrc=question_page&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f2313107%2fhow-do-i-make-a-simple-crawler-in-php%23new-answer"
+        }
+    },
+    {
+        "text": "terms of service",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/legal\/terms-of-service\/public",
+            "name": "tos",
+            "target": "_blank",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "privacy policy",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/legal\/privacy-policy",
+            "name": "privacy",
+            "target": "_blank",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "cookie policy",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/legal\/cookie-policy",
+            "name": "cookie",
+            "target": "_blank",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "php",
+        "attributes": {
+            "href": "\/questions\/tagged\/php",
+            "class": "post-tag",
+            "title": "show questions tagged 'php'",
+            "rel": "tag"
+        }
+    },
+    {
+        "text": "web-crawler",
+        "attributes": {
+            "href": "\/questions\/tagged\/web-crawler",
+            "class": "post-tag",
+            "title": "show questions tagged 'web-crawler'",
+            "rel": "tag"
+        }
+    },
+    {
+        "text": "ask your own question",
+        "attributes": {
+            "href": "\/questions\/ask"
+        }
+    },
+    {
+        "text": "25 days ago",
+        "attributes": {
+            "href": "?lastactivity",
+            "class": "lastactivity-link",
+            "title": "2019-01-03 20:47:49Z"
+        }
+    },
+    {
+        "text": "0",
+        "attributes": {
+            "href": "\/q\/5632668",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "PHP web-crawler",
+        "attributes": {
+            "href": "\/questions\/5632668\/php-web-crawler?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "2",
+        "attributes": {
+            "href": "\/q\/17253264",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Scanning a whole website's pages for a piece of code",
+        "attributes": {
+            "href": "\/questions\/17253264\/scanning-a-whole-websites-pages-for-a-piece-of-code?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1324",
+        "attributes": {
+            "href": "\/q\/1732348",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "RegEx match open tags except XHTML self-contained tags",
+        "attributes": {
+            "href": "\/questions\/1732348\/regex-match-open-tags-except-xhtml-self-contained-tags?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1968",
+        "attributes": {
+            "href": "\/q\/3577641",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "How Do You Parse and Process HTML\/XML in PHP?",
+        "attributes": {
+            "href": "\/questions\/3577641\/how-do-you-parse-and-process-html-xml-in-php?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "109",
+        "attributes": {
+            "href": "\/q\/3820666",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Grabbing the href attribute of an A element",
+        "attributes": {
+            "href": "\/questions\/3820666\/grabbing-the-href-attribute-of-an-a-element?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "7",
+        "attributes": {
+            "href": "\/q\/10108634",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Crawl a website, get the links, crawl the links with PHP and XPATH",
+        "attributes": {
+            "href": "\/questions\/10108634\/crawl-a-website-get-the-links-crawl-the-links-with-php-and-xpath?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "0",
+        "attributes": {
+            "href": "\/q\/6314345",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "how to create a search engine in php?",
+        "attributes": {
+            "href": "\/questions\/6314345\/how-to-create-a-search-engine-in-php?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1",
+        "attributes": {
+            "href": "\/q\/11278010",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "PHP - Is the there a safe way to perform deep recursion?",
+        "attributes": {
+            "href": "\/questions\/11278010\/php-is-the-there-a-safe-way-to-perform-deep-recursion?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "0",
+        "attributes": {
+            "href": "\/q\/24614835",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "file_get_contents VS dom->loadHTMLFile",
+        "attributes": {
+            "href": "\/questions\/24614835\/file-get-contents-vs-dom-loadhtmlfile?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "0",
+        "attributes": {
+            "href": "\/q\/8623315",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "PHP and curl result for screen scraping",
+        "attributes": {
+            "href": "\/questions\/8623315\/php-and-curl-result-for-screen-scraping?noredirect=1",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "see more linked questions\u00e2\u0080\u00a6",
+        "attributes": {
+            "href": "\/questions\/linked\/2313107"
+        }
+    },
+    {
+        "text": "2780",
+        "attributes": {
+            "href": "\/q\/60174",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "How can I prevent SQL injection in PHP?",
+        "attributes": {
+            "href": "\/questions\/60174\/how-can-i-prevent-sql-injection-in-php",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "753",
+        "attributes": {
+            "href": "\/q\/333664",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "How do I implement basic \u201cLong Polling\u201d?",
+        "attributes": {
+            "href": "\/questions\/333664\/how-do-i-implement-basic-long-polling",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "2126",
+        "attributes": {
+            "href": "\/q\/369602",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "PHP: Delete an element from an array",
+        "attributes": {
+            "href": "\/questions\/369602\/php-delete-an-element-from-an-array",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1093",
+        "attributes": {
+            "href": "\/q\/401656",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Secure hash and salt for PHP passwords",
+        "attributes": {
+            "href": "\/questions\/401656\/secure-hash-and-salt-for-php-passwords",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1070",
+        "attributes": {
+            "href": "\/q\/768431",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "How to make a redirect in PHP?",
+        "attributes": {
+            "href": "\/questions\/768431\/how-to-make-a-redirect-in-php",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1456",
+        "attributes": {
+            "href": "\/q\/1053424",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "How do I get PHP errors to display?",
+        "attributes": {
+            "href": "\/questions\/1053424\/how-do-i-get-php-errors-to-display",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "4013",
+        "attributes": {
+            "href": "\/q\/3737139",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Reference \u00e2\u0080\u0094 What does this symbol mean in PHP?",
+        "attributes": {
+            "href": "\/questions\/3737139\/reference-what-does-this-symbol-mean-in-php",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "1021",
+        "attributes": {
+            "href": "\/q\/4261133",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "\u201cNotice: Undefined variable\u201d, \u201cNotice: Undefined index\u201d, and \u201cNotice: Undefined offset\u201d using PHP",
+        "attributes": {
+            "href": "\/questions\/4261133\/notice-undefined-variable-notice-undefined-index-and-notice-undefined",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "776",
+        "attributes": {
+            "href": "\/q\/8684609",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Where is my php.ini file located on the server?",
+        "attributes": {
+            "href": "\/questions\/8684609\/where-is-my-php-ini-file-located-on-the-server",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "984",
+        "attributes": {
+            "href": "\/q\/12769982",
+            "title": "Vote score (upvotes - downvotes)"
+        }
+    },
+    {
+        "text": "Reference - What does this error mean in PHP?",
+        "attributes": {
+            "href": "\/questions\/12769982\/reference-what-does-this-error-mean-in-php",
+            "class": "question-hyperlink"
+        }
+    },
+    {
+        "text": "Hot Network Questions",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/questions?tab=hot",
+            "class": "js-gps-track s-link s-link__inherit",
+            "data-gps-track": "posts_hot_network.click({ item_type:1, location:11 })"
+        }
+    },
+    {
+        "text": "Coworker watches content on his phone all day",
+        "attributes": {
+            "href": "https:\/\/workplace.stackexchange.com\/questions\/127233\/coworker-watches-content-on-his-phone-all-day",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:423 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Website with a collection of sci fi stories set in the same universe; powerful AIs being regarded as Gods, one named Gaia, and a \"technopocalypse\"",
+        "attributes": {
+            "href": "https:\/\/scifi.stackexchange.com\/questions\/204242\/website-with-a-collection-of-sci-fi-stories-set-in-the-same-universe-powerful-a",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:186 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "The Nuclear Dragon",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com\/questions\/137872\/the-nuclear-dragon",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:579 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "What items in Pok\u00e9mon Go count against item storage limit?",
+        "attributes": {
+            "href": "https:\/\/gaming.stackexchange.com\/questions\/345727\/what-items-in-pok%c3%a9mon-go-count-against-item-storage-limit",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:41 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Is it time to start closing up my novel?",
+        "attributes": {
+            "href": "https:\/\/writing.stackexchange.com\/questions\/41689\/is-it-time-to-start-closing-up-my-novel",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:166 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Need a specific event that wrecks the surface, allows the race to survive in bunkers, and affords an aftermath suitable for them to rebuild",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com\/questions\/137802\/need-a-specific-event-that-wrecks-the-surface-allows-the-race-to-survive-in-bun",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:579 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "\"A dreadful five minutes\" - what about the article?",
+        "attributes": {
+            "href": "https:\/\/ell.stackexchange.com\/questions\/194440\/a-dreadful-five-minutes-what-about-the-article",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:481 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Was water ever taken outside a spacecraft?",
+        "attributes": {
+            "href": "https:\/\/space.stackexchange.com\/questions\/33865\/was-water-ever-taken-outside-a-spacecraft",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:508 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Cleric player in Adventurer's League may have extorted us for Revivify",
+        "attributes": {
+            "href": "https:\/\/rpg.stackexchange.com\/questions\/139950\/cleric-player-in-adventurers-league-may-have-extorted-us-for-revivify",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:122 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Pointer arithmetics with two different buffers",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/questions\/54401425\/pointer-arithmetics-with-two-different-buffers",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:1 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Travel from Nigeria to Bahamas, avoiding transit in US, UK and Canada",
+        "attributes": {
+            "href": "https:\/\/travel.stackexchange.com\/questions\/131077\/travel-from-nigeria-to-bahamas-avoiding-transit-in-us-uk-and-canada",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:273 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why isn't integral defined as the area under the graph of function?",
+        "attributes": {
+            "href": "https:\/\/mathoverflow.net\/questions\/321916\/why-isnt-integral-defined-as-the-area-under-the-graph-of-function",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:504 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "At great altitude, what conditions are needed to support a human community?",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com\/questions\/137897\/at-great-altitude-what-conditions-are-needed-to-support-a-human-community",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:579 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why do some synthesizers have two or more oscillators?",
+        "attributes": {
+            "href": "https:\/\/music.stackexchange.com\/questions\/79320\/why-do-some-synthesizers-have-two-or-more-oscillators",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:240 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "A Short Dice Puzzle II",
+        "attributes": {
+            "href": "https:\/\/puzzling.stackexchange.com\/questions\/78958\/a-short-dice-puzzle-ii",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:559 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "How to keep the anonymity of people attending a regular event taking place at the same location everytime?",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com\/questions\/137804\/how-to-keep-the-anonymity-of-people-attending-a-regular-event-taking-place-at-th",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:579 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why doesn't TeX hyphenate a really long word for which I've indicated some permissible hyphenation points?",
+        "attributes": {
+            "href": "https:\/\/tex.stackexchange.com\/questions\/472339\/why-doesnt-tex-hyphenate-a-really-long-word-for-which-ive-indicated-some-permi",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:85 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why is Fox News the most viewed news channel in the US?",
+        "attributes": {
+            "href": "https:\/\/politics.stackexchange.com\/questions\/38294\/why-is-fox-news-the-most-viewed-news-channel-in-the-us",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:475 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "How does scipy calculate the binomial CDF so fast?",
+        "attributes": {
+            "href": "https:\/\/stats.stackexchange.com\/questions\/389663\/how-does-scipy-calculate-the-binomial-cdf-so-fast",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:65 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Superheated wing blast!",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com\/questions\/137891\/superheated-wing-blast",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:579 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why does ice crystal form from the top to the bottom of a bottle which is filled with supercooled water?",
+        "attributes": {
+            "href": "https:\/\/physics.stackexchange.com\/questions\/457410\/why-does-ice-crystal-form-from-the-top-to-the-bottom-of-a-bottle-which-is-filled",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:151 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Formula for the sequence 0,3,8,15,24 ...",
+        "attributes": {
+            "href": "https:\/\/math.stackexchange.com\/questions\/3091713\/formula-for-the-sequence-0-3-8-15-24",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:69 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "Why did the Baron and Piter de Vries fear the Truthsayer?",
+        "attributes": {
+            "href": "https:\/\/scifi.stackexchange.com\/questions\/204224\/why-did-the-baron-and-piter-de-vries-fear-the-truthsayer",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:186 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "How big is a mainframe?",
+        "attributes": {
+            "href": "https:\/\/retrocomputing.stackexchange.com\/questions\/8946\/how-big-is-a-mainframe",
+            "class": "js-gps-track question-hyperlink mb0",
+            "data-gps-track": "site.switch({ item_type:11, target_site:648 }); posts_hot_network.click({ item_type:2, location:11 })"
+        }
+    },
+    {
+        "text": "more hot questions",
+        "attributes": {
+            "href": "#",
+            "class": "show-more js-show-more js-gps-track",
+            "data-gps-track": "posts_hot_network.click({ item_type:3, location:11 })"
+        }
+    },
+    {
+        "text": "question feed",
+        "attributes": {
+            "href": "\/feeds\/question\/2313107",
+            "title": "feed of this question and its answers"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com"
+        }
+    },
+    {
+        "text": "Stack Overflow",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com",
+            "class": "js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 15})"
+        }
+    },
+    {
+        "text": "Questions",
+        "attributes": {
+            "href": "\/questions",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 16})"
+        }
+    },
+    {
+        "text": "Jobs",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/jobs",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 17})"
+        }
+    },
+    {
+        "text": "Developer Jobs Directory",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/jobs\/directory\/developer-jobs",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 11})"
+        }
+    },
+    {
+        "text": "Salary Calculator",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/jobs\/salary",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 28})"
+        }
+    },
+    {
+        "text": "Help",
+        "attributes": {
+            "href": "\/help",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 3 })"
+        }
+    },
+    {
+        "text": "Mobile",
+        "attributes": {
+            "onclick": "StackExchange.switchMobile(\"on\")",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 12 })"
+        }
+    },
+    {
+        "text": "Products",
+        "attributes": {
+            "href": "https:\/\/www.stackoverflowbusiness.com",
+            "class": "js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 19 })"
+        }
+    },
+    {
+        "text": "Teams",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/teams",
+            "class": "js-gps-track -link",
+            "data-ga": "[\"teams traffic\",\"footer - site nav\",\"stackoverflow.com\/teams\",null,{\"dimension4\":\"teams\"}]",
+            "data-gps-track": "footer.click({ location: 2, link: 29 })"
+        }
+    },
+    {
+        "text": "Talent",
+        "attributes": {
+            "href": "https:\/\/www.stackoverflowbusiness.com\/talent",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 20 })"
+        }
+    },
+    {
+        "text": "Engagement",
+        "attributes": {
+            "href": "https:\/\/www.stackoverflowbusiness.com\/advertise",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 21 })"
+        }
+    },
+    {
+        "text": "Enterprise",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com\/enterprise",
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 22 })"
+        }
+    },
+    {
+        "text": "Company",
+        "attributes": {
+            "class": "js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 1 })",
+            "href": "https:\/\/stackoverflow.com\/company\/about"
+        }
+    },
+    {
+        "text": "About",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 1 })",
+            "href": "https:\/\/stackoverflow.com\/company\/about"
+        }
+    },
+    {
+        "text": "Press",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 27 })",
+            "href": "https:\/\/stackoverflow.com\/company\/press"
+        }
+    },
+    {
+        "text": "Work Here",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 9 })",
+            "href": "https:\/\/stackoverflow.com\/company\/work-here"
+        }
+    },
+    {
+        "text": "Legal",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 7 })",
+            "href": "https:\/\/stackoverflow.com\/legal"
+        }
+    },
+    {
+        "text": "Privacy Policy",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 8 })",
+            "href": "https:\/\/stackoverflow.com\/legal\/privacy-policy"
+        }
+    },
+    {
+        "text": "Contact Us",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link: 13 })",
+            "href": "https:\/\/stackoverflow.com\/company\/contact"
+        }
+    },
+    {
+        "text": "",
+        "attributes": {
+            "href": "#",
+            "class": "site-footer--back js-footer-back"
+        }
+    },
+    {
+        "text": "Stack Exchange Network",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com"
+        }
+    },
+    {
+        "text": "Technology",
+        "attributes": {
+            "href": "#",
+            "class": "-link _expandable js-footer-category-trigger js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 24 })",
+            "data-target": "Technology"
+        }
+    },
+    {
+        "text": "Life \/ Arts",
+        "attributes": {
+            "href": "#",
+            "class": "-link _expandable js-footer-category-trigger js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 24 })",
+            "data-target": "Life \/ Arts"
+        }
+    },
+    {
+        "text": "Culture \/ Recreation",
+        "attributes": {
+            "href": "#",
+            "class": "-link _expandable js-footer-category-trigger js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 24 })",
+            "data-target": "Culture \/ Recreation"
+        }
+    },
+    {
+        "text": "Science",
+        "attributes": {
+            "href": "#",
+            "class": "-link _expandable js-footer-category-trigger js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 24 })",
+            "data-target": "Science"
+        }
+    },
+    {
+        "text": "Other",
+        "attributes": {
+            "href": "#",
+            "class": "-link _expandable js-footer-category-trigger js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 24 })",
+            "data-target": "Other"
+        }
+    },
+    {
+        "text": "Stack Overflow",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professional and enthusiast programmers"
+        }
+    },
+    {
+        "text": "Server Fault",
+        "attributes": {
+            "href": "https:\/\/serverfault.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "system and network administrators"
+        }
+    },
+    {
+        "text": "Super User",
+        "attributes": {
+            "href": "https:\/\/superuser.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "computer enthusiasts and power users"
+        }
+    },
+    {
+        "text": "Web Applications",
+        "attributes": {
+            "href": "https:\/\/webapps.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "power users of web applications"
+        }
+    },
+    {
+        "text": "Ask Ubuntu",
+        "attributes": {
+            "href": "https:\/\/askubuntu.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Ubuntu users and developers"
+        }
+    },
+    {
+        "text": "Webmasters",
+        "attributes": {
+            "href": "https:\/\/webmasters.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "pro webmasters"
+        }
+    },
+    {
+        "text": "Game Development",
+        "attributes": {
+            "href": "https:\/\/gamedev.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professional and independent game developers"
+        }
+    },
+    {
+        "text": "TeX - LaTeX",
+        "attributes": {
+            "href": "https:\/\/tex.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users of TeX, LaTeX, ConTeXt, and related typesetting systems"
+        }
+    },
+    {
+        "text": "Software Engineering",
+        "attributes": {
+            "href": "https:\/\/softwareengineering.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professionals, academics, and students working within the systems development life cycle"
+        }
+    },
+    {
+        "text": "Unix & Linux",
+        "attributes": {
+            "href": "https:\/\/unix.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users of Linux, FreeBSD and other Un*x-like operating systems"
+        }
+    },
+    {
+        "text": "Ask Different (Apple)",
+        "attributes": {
+            "href": "https:\/\/apple.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "power users of Apple hardware and software"
+        }
+    },
+    {
+        "text": "WordPress Development",
+        "attributes": {
+            "href": "https:\/\/wordpress.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "WordPress developers and administrators"
+        }
+    },
+    {
+        "text": "Geographic Information Systems",
+        "attributes": {
+            "href": "https:\/\/gis.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "cartographers, geographers and GIS professionals"
+        }
+    },
+    {
+        "text": "Electrical Engineering",
+        "attributes": {
+            "href": "https:\/\/electronics.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "electronics and electrical engineering professionals, students, and enthusiasts"
+        }
+    },
+    {
+        "text": "Android Enthusiasts",
+        "attributes": {
+            "href": "https:\/\/android.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "enthusiasts and power users of the Android operating system"
+        }
+    },
+    {
+        "text": "Information Security",
+        "attributes": {
+            "href": "https:\/\/security.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "information security professionals"
+        }
+    },
+    {
+        "text": "Database Administrators",
+        "attributes": {
+            "href": "https:\/\/dba.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "database professionals who wish to improve their database skills and learn from others in the community"
+        }
+    },
+    {
+        "text": "Drupal Answers",
+        "attributes": {
+            "href": "https:\/\/drupal.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Drupal developers and administrators"
+        }
+    },
+    {
+        "text": "SharePoint",
+        "attributes": {
+            "href": "https:\/\/sharepoint.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "SharePoint enthusiasts"
+        }
+    },
+    {
+        "text": "User Experience",
+        "attributes": {
+            "href": "https:\/\/ux.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "user experience researchers and experts"
+        }
+    },
+    {
+        "text": "Mathematica",
+        "attributes": {
+            "href": "https:\/\/mathematica.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users of Wolfram Mathematica"
+        }
+    },
+    {
+        "text": "Salesforce",
+        "attributes": {
+            "href": "https:\/\/salesforce.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Salesforce administrators, implementation experts, developers and anybody in-between"
+        }
+    },
+    {
+        "text": "ExpressionEngine\u00ae Answers",
+        "attributes": {
+            "href": "https:\/\/expressionengine.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "administrators, end users, developers and designers for ExpressionEngine\u00ae CMS"
+        }
+    },
+    {
+        "text": "Stack Overflow em Portugu\u00eas",
+        "attributes": {
+            "href": "https:\/\/pt.stackoverflow.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "programadores profissionais e entusiastas"
+        }
+    },
+    {
+        "text": "Blender",
+        "attributes": {
+            "href": "https:\/\/blender.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people who use Blender to create 3D graphics, animations, or games"
+        }
+    },
+    {
+        "text": "Network Engineering",
+        "attributes": {
+            "href": "https:\/\/networkengineering.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "network engineers"
+        }
+    },
+    {
+        "text": "Cryptography",
+        "attributes": {
+            "href": "https:\/\/crypto.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "software developers, mathematicians and others interested in cryptography"
+        }
+    },
+    {
+        "text": "Code Review",
+        "attributes": {
+            "href": "https:\/\/codereview.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "peer programmer code reviews"
+        }
+    },
+    {
+        "text": "Magento",
+        "attributes": {
+            "href": "https:\/\/magento.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users of the Magento e-Commerce platform"
+        }
+    },
+    {
+        "text": "Software Recommendations",
+        "attributes": {
+            "href": "https:\/\/softwarerecs.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people seeking specific software recommendations"
+        }
+    },
+    {
+        "text": "Signal Processing",
+        "attributes": {
+            "href": "https:\/\/dsp.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "practitioners of the art and science of signal, image and video processing"
+        }
+    },
+    {
+        "text": "Emacs",
+        "attributes": {
+            "href": "https:\/\/emacs.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "those using, extending or developing Emacs"
+        }
+    },
+    {
+        "text": "Raspberry Pi",
+        "attributes": {
+            "href": "https:\/\/raspberrypi.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users and developers of hardware and software for Raspberry Pi"
+        }
+    },
+    {
+        "text": "Stack Overflow \u00d0\u00bd\u00d0\u00b0 \u00d1\u0080\u00d1\u0083\u00d1\u0081\u00d1\u0081\u00d0\u00ba\u00d0\u00be\u00d0\u00bc",
+        "attributes": {
+            "href": "https:\/\/ru.stackoverflow.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "\u00d0\u00bf\u00d1\u0080\u00d0\u00be\u00d0\u00b3\u00d1\u0080\u00d0\u00b0\u00d0\u00bc\u00d0\u00bc\u00d0\u00b8\u00d1\u0081\u00d1\u0082\u00d0\u00be\u00d0\u00b2"
+        }
+    },
+    {
+        "text": "Programming Puzzles & Code Golf",
+        "attributes": {
+            "href": "https:\/\/codegolf.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "programming puzzle enthusiasts and code golfers"
+        }
+    },
+    {
+        "text": "Stack Overflow en espa\u00f1ol",
+        "attributes": {
+            "href": "https:\/\/es.stackoverflow.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "programadores y profesionales de la inform\u00e1tica"
+        }
+    },
+    {
+        "text": "Ethereum",
+        "attributes": {
+            "href": "https:\/\/ethereum.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "users of Ethereum, the decentralized application platform and smart contract enabled blockchain"
+        }
+    },
+    {
+        "text": "Data Science",
+        "attributes": {
+            "href": "https:\/\/datascience.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Data science professionals, Machine Learning specialists, and those interested in learning more about the field"
+        }
+    },
+    {
+        "text": "Arduino",
+        "attributes": {
+            "href": "https:\/\/arduino.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "developers of open-source hardware and software that is compatible with Arduino"
+        }
+    },
+    {
+        "text": "Bitcoin",
+        "attributes": {
+            "href": "https:\/\/bitcoin.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Bitcoin crypto-currency enthusiasts"
+        }
+    },
+    {
+        "text": "more (30)",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/sites#technology",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 26 })"
+        }
+    },
+    {
+        "text": "Photography",
+        "attributes": {
+            "href": "https:\/\/photo.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professional, enthusiast and amateur photographers"
+        }
+    },
+    {
+        "text": "Science Fiction & Fantasy",
+        "attributes": {
+            "href": "https:\/\/scifi.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "science fiction and fantasy enthusiasts"
+        }
+    },
+    {
+        "text": "Graphic Design",
+        "attributes": {
+            "href": "https:\/\/graphicdesign.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "Graphic Design professionals, students, and enthusiasts"
+        }
+    },
+    {
+        "text": "Movies & TV",
+        "attributes": {
+            "href": "https:\/\/movies.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "movie and tv enthusiasts"
+        }
+    },
+    {
+        "text": "Music: Practice & Theory",
+        "attributes": {
+            "href": "https:\/\/music.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "musicians, students, and enthusiasts"
+        }
+    },
+    {
+        "text": "Worldbuilding",
+        "attributes": {
+            "href": "https:\/\/worldbuilding.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "writers\/artists using science, geography and culture to construct imaginary worlds and settings"
+        }
+    },
+    {
+        "text": "Seasoned Advice (cooking)",
+        "attributes": {
+            "href": "https:\/\/cooking.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professional and amateur chefs"
+        }
+    },
+    {
+        "text": "Home Improvement",
+        "attributes": {
+            "href": "https:\/\/diy.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "contractors and serious DIYers"
+        }
+    },
+    {
+        "text": "Personal Finance & Money",
+        "attributes": {
+            "href": "https:\/\/money.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people who want to be financially literate"
+        }
+    },
+    {
+        "text": "Academia",
+        "attributes": {
+            "href": "https:\/\/academia.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "academics and those enrolled in higher education"
+        }
+    },
+    {
+        "text": "Law",
+        "attributes": {
+            "href": "https:\/\/law.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "legal professionals, students, and others with experience or interest in law"
+        }
+    },
+    {
+        "text": "more (15)",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/sites#lifearts",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 26 })"
+        }
+    },
+    {
+        "text": "English Language & Usage",
+        "attributes": {
+            "href": "https:\/\/english.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "linguists, etymologists, and serious English language enthusiasts"
+        }
+    },
+    {
+        "text": "Skeptics",
+        "attributes": {
+            "href": "https:\/\/skeptics.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "scientific skepticism"
+        }
+    },
+    {
+        "text": "Mi Yodeya (Judaism)",
+        "attributes": {
+            "href": "https:\/\/judaism.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "those who base their lives on Jewish law and tradition and anyone interested in learning more"
+        }
+    },
+    {
+        "text": "Travel",
+        "attributes": {
+            "href": "https:\/\/travel.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "road warriors and seasoned travelers"
+        }
+    },
+    {
+        "text": "Christianity",
+        "attributes": {
+            "href": "https:\/\/christianity.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "committed Christians, experts in Christianity and those interested in learning more"
+        }
+    },
+    {
+        "text": "English Language Learners",
+        "attributes": {
+            "href": "https:\/\/ell.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "speakers of other languages learning English"
+        }
+    },
+    {
+        "text": "Japanese Language",
+        "attributes": {
+            "href": "https:\/\/japanese.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "students, teachers, and linguists wanting to discuss the finer points of the Japanese language"
+        }
+    },
+    {
+        "text": "Arqade (gaming)",
+        "attributes": {
+            "href": "https:\/\/gaming.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "passionate videogamers on all platforms"
+        }
+    },
+    {
+        "text": "Bicycles",
+        "attributes": {
+            "href": "https:\/\/bicycles.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people who build and repair bicycles, people who train cycling, or commute on bicycles"
+        }
+    },
+    {
+        "text": "Role-playing Games",
+        "attributes": {
+            "href": "https:\/\/rpg.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "gamemasters and players of tabletop, paper-and-pencil role-playing games"
+        }
+    },
+    {
+        "text": "Anime & Manga",
+        "attributes": {
+            "href": "https:\/\/anime.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "anime and manga fans"
+        }
+    },
+    {
+        "text": "Puzzling",
+        "attributes": {
+            "href": "https:\/\/puzzling.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "those who create, solve, and study puzzles"
+        }
+    },
+    {
+        "text": "Motor Vehicle Maintenance & Repair",
+        "attributes": {
+            "href": "https:\/\/mechanics.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "mechanics and DIY enthusiast owners of cars, trucks, and motorcycles"
+        }
+    },
+    {
+        "text": "more (33)",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/sites#culturerecreation",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 26 })"
+        }
+    },
+    {
+        "text": "MathOverflow",
+        "attributes": {
+            "href": "https:\/\/mathoverflow.net",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "professional mathematicians"
+        }
+    },
+    {
+        "text": "Mathematics",
+        "attributes": {
+            "href": "https:\/\/math.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people studying math at any level and professionals in related fields"
+        }
+    },
+    {
+        "text": "Cross Validated (stats)",
+        "attributes": {
+            "href": "https:\/\/stats.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "people interested in statistics, machine learning, data analysis, data mining, and data visualization"
+        }
+    },
+    {
+        "text": "Theoretical Computer Science",
+        "attributes": {
+            "href": "https:\/\/cstheory.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "theoretical computer scientists and researchers in related fields"
+        }
+    },
+    {
+        "text": "Physics",
+        "attributes": {
+            "href": "https:\/\/physics.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "active researchers, academics and students of physics"
+        }
+    },
+    {
+        "text": "Chemistry",
+        "attributes": {
+            "href": "https:\/\/chemistry.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "scientists, academics, teachers, and students in the field of chemistry"
+        }
+    },
+    {
+        "text": "Biology",
+        "attributes": {
+            "href": "https:\/\/biology.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "biology researchers, academics, and students"
+        }
+    },
+    {
+        "text": "Computer Science",
+        "attributes": {
+            "href": "https:\/\/cs.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "students, researchers and practitioners of computer science"
+        }
+    },
+    {
+        "text": "Philosophy",
+        "attributes": {
+            "href": "https:\/\/philosophy.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "those interested in the study of the fundamental nature of knowledge, reality, and existence"
+        }
+    },
+    {
+        "text": "more (10)",
+        "attributes": {
+            "href": "https:\/\/stackexchange.com\/sites#science",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 26 })"
+        }
+    },
+    {
+        "text": "Meta Stack Exchange",
+        "attributes": {
+            "href": "https:\/\/meta.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "meta-discussion of the Stack Exchange family of Q&A websites"
+        }
+    },
+    {
+        "text": "Stack Apps",
+        "attributes": {
+            "href": "https:\/\/stackapps.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "apps, scripts, and development with the Stack Exchange API"
+        }
+    },
+    {
+        "text": "API",
+        "attributes": {
+            "href": "https:\/\/api.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "programmatic interaction with Stack Exchange sites"
+        }
+    },
+    {
+        "text": "Data",
+        "attributes": {
+            "href": "https:\/\/data.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "querying Stack Exchange data using SQL"
+        }
+    },
+    {
+        "text": "Area 51",
+        "attributes": {
+            "href": "https:\/\/area51.stackexchange.com",
+            "class": "-link js-gps-track",
+            "data-gps-track": "footer.click({ location: 2, link: 25 })",
+            "title": "proposing new sites in the Stack Exchange network"
+        }
+    },
+    {
+        "text": "Blog",
+        "attributes": {
+            "class": "js-gps-track -link",
+            "data-gps-track": "footer.click({ location: 2, link:4 })",
+            "href": "https:\/\/stackoverflow.blog?blb=1"
+        }
+    },
+    {
+        "text": "Facebook",
+        "attributes": {
+            "href": "https:\/\/www.facebook.com\/officialstackoverflow\/",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "Twitter",
+        "attributes": {
+            "href": "https:\/\/twitter.com\/stackoverflow",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "LinkedIn",
+        "attributes": {
+            "href": "https:\/\/linkedin.com\/company\/stack-overflow",
+            "class": "-link"
+        }
+    },
+    {
+        "text": "cc by-sa 3.0",
+        "attributes": {
+            "href": "https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/",
+            "rel": "license"
+        }
+    },
+    {
+        "text": "attribution required",
+        "attributes": {
+            "href": "https:\/\/stackoverflow.blog\/2009\/06\/25\/attribution-required\/",
+            "rel": "license"
+        }
+    }
+]

@@ -9,7 +9,9 @@
     <script src="./index.js"></script>
 </head>
 <body>
-    <button id="btnClick">Click</button>
-    <textarea name="txt" id="txtResult" cols="30" rows="10"></textarea>
+    <!-- <button id="btnClick">Click</button>
+    <textarea name="txt" id="txtResult" cols="30" rows="10"></textarea> -->
+    <button id="btnGet">Click</button>
+    <div id="contentGet"></div>
 </body>
 </html>
