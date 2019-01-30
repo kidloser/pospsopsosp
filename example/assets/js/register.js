@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function () {
     // $("#btnClick").click(function(){
     //     var dataPost = {
     //         a:"Saab",
@@ -20,29 +20,28 @@ $(document).ready(function() {
     //         }
     //     });
     // }); 
-    $("#btnGet").click(function() { 
+    $("#btnGet").click(function () {
         $.ajax({
             type: "GET",
             url: "./api/todo.php",
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded'
             },
-            success: function (response)
-            {
+            success: function (response) {
                 var data = JSON.parse(response);
                 $("#contentGet").html(data);
             },
-            error: function(error) {
+            error: function (error) {
                 alert("Something Wrong...");
             }
         });
-        
+
     });
     $("#btnGetID").click(function () {
         var id = $("#txtInput").val();
         $.ajax({
             type: "GET",
-            url: "./page/"+ id,
+            url: "./page/" + id,
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded'
             },
@@ -55,17 +54,3 @@ $(document).ready(function() {
         });
     });
 });
-// $.ajax({
-//     type: "GET",
-//     url: "./api/index.php",
-//     headers: {
-//         'Content-Type': 'application/x-www-form-urlencoded'
-//     },
-//     success: function (response)
-//     {
-//         //var data = JSON.parse(response);
-//     },
-//     error: function(error) {
-//         alert("Something Wrong...");
-//     }
-// });

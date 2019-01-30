@@ -12,6 +12,8 @@
     <!-- <button id="btnClick">Click</button>
     <textarea name="txt" id="txtResult" cols="30" rows="10"></textarea> -->
     <button id="btnGet">Click</button>
+    <input type="text" name="" id="txtInput">
+    <button id="btnGetID">Get id</button>
     <div id="contentGet"></div>
 </body>
 </html>
