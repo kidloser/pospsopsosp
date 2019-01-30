@@ -2,16 +2,20 @@
     <IfModule mod_negotiation.c>
         Options -MultiViews
     </IfModule>
+    ErrorDocument 404 404.php
     RewriteEngine On
     ##Blacklist
     RewriteRule ^config/.* index.php [L,NC]
     RewriteRule ^page/(.*)$ page.php?id=$1 [L,NC]
-    RewriteRule ^login/(.*)$ login.php [L,NC]
-    RewriteRule ^register/(.*)$ page.php [L,NC]
+    RewriteRule ^login$ login.php [L,NC]
+    RewriteRule ^register$ register.php [L,NC]
+    RewriteRule ^api/login api/login.php [L,NC]
+    RewriteRule ^api/register api/register.php [L,NC]
     ##Whitelist
     RewriteCond %{REQUEST_URI} !\.js$
     RewriteCond %{REQUEST_URI} !\.jpg$
     RewriteCond %{REQUEST_URI} !\.png$
     RewriteCond %{REQUEST_URI} !\.ico$
     RewriteCond %{REQUEST_URI} !\.jpeg$
+    RewriteCond %{REQUEST_URI} !\.css$
 </IfModule>

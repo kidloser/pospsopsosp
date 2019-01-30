@@ -8,14 +8,16 @@ $(document).ready(function () {
         };
         $.ajax({
             type: "POST",
-            url: "./api/login.php",
+            url: "./api/login",
             data : {'dataPost': JSON.stringify(dataPost)},
             success: function (response)
             {
-                // var data = JSON.parse(response);
-                // //data = JSON.stringify(data);
-                // $("#txtResult").html(data['a']);]\
-                alert(response);
+                if(response == "1"){
+                    window.location.replace("./");
+                }
+                else{
+                    alert("Invalid username or password");
+                }
             },
             error: function(error) {
                 alert("Something Wrong...");
