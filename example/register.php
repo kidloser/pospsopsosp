@@ -28,7 +28,7 @@
 
         <form>
         <div class="form-group has-feedback">
-            <input type="text" class="form-control" placeholder="Username" id="txtUsername" autocomplete="false">
+            <input type="text" class="form-control" placeholder="Username" id="txtUsername" autocomplete="off">
             <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
         </div>
         <div class="form-group has-feedback">
