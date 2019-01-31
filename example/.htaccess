@@ -11,6 +11,7 @@
     RewriteRule ^register$ register.php [L,NC]
     RewriteRule ^api/login api/login.php [L,NC]
     RewriteRule ^api/register api/register.php [L,NC]
+    RewriteRule ^api/index api/index.php [L,NC]
     ##Whitelist
     RewriteCond %{REQUEST_URI} !\.js$
     RewriteCond %{REQUEST_URI} !\.jpg$

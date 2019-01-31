@@ -58,7 +58,7 @@
         <div class="social-auth-links text-center">
         </div>
 
-        <a href="./login/" class="text-center">I already have a membership</a>
+        <a href="./login" class="text-center">I already have a membership</a>
     </div>
     <!-- /.form-box -->
     </div>

@@ -13,7 +13,18 @@ if (isset ($_POST))
     if (isset ($_POST["dataPost"]))
     {
         $data = $_POST["dataPost"];
-            echo ($data);
+        echo ($data);
     }
 }
+$list = array ();
+for ($i = 1; $i < 5; $i++)
+{
+    $data = new stdClass(); // create a new object
+    $data->id = $i;
+    $data->name = "abc" . $i;
+    array_push($list, $data);
+}
+echo json_encode($list);
+
+
 ?>
