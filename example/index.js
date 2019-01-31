@@ -74,4 +74,24 @@ $(document).ready(function() {
             }
         });
     });
+
+
+
+    //fucntion
+    function makeAjaxCall(url, methodType, callback) {
+        $.ajax({
+            url: url,
+            method: methodType,
+            dataType: "json",
+            success: callback,
+            error: function (reason, xhr) {
+                console.log("error in processing your request", reason);
+            }
+        });
+    }
+    // git hub url to get btford details
+    var URL = "https://api.github.com/users/btford";
+    makeAjaxCall(URL, "GET", function (respJson) {
+        
+    });
 });
